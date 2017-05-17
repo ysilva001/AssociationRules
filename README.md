@@ -1,4 +1,4 @@
-# AssociationRules
+# Association Rules
 Association Rules and Frequent Itemsets using aprori method (arules package)
 
 Priori algorithim is a frequent itemset mining method. 
